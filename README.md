@@ -41,7 +41,7 @@ A rom hack changelog for an old game
 6. New enemy type Pork Butcher, moves slowly has a lot of health. Attacks with ranged attack.
 7. New enemy type White Space Frog, shoots lightning out of mouth in 180 degree arc. Causes paralysis status effect.
 8. New enemy type Cyan Space Frog, shoots ice projectile out of mouth. Causes freezing status effect.
-9. New boss prior to 1st boss. A two on one boss fight. Drops lifesteal upgrade. One is a berserker who charges, the second is a gunner who is stationary and attacks at range.
+9. New superboss prior to 1st boss. A two on one boss fight. Drops lifesteal upgrade. One is a berserker who charges, the second is a gunner who is stationary and attacks at range.
 10. New miniboss next to bridge, Ranger. Shoots a bow and has a decent amount of health. Doesn't respawn. Near campfire next to river.
 11. 1st boss unlocks whip weapon now.
 12. 2nd boss unlocks whip speed upgrade.
@@ -54,7 +54,7 @@ A rom hack changelog for an old game
 19. New 9th boss unlocks increased gun speed upgrade.
 20. New 10th boss unlocks whip projectile upgrade.
 21. New Final boss unlocks ng+.
-22. Superboss unlocks infinite missiles and TNT upgrade.
+22. Endgame Superboss unlocks infinite missiles and TNT upgrade.
 23. Bosses and enemies tweaked to be stronger due to better upgrades.
 24. Enemy spawn pools are much faster, deal with more enemies on the screen. Game becomes more like a bullet hell.
 
