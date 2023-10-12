@@ -56,7 +56,7 @@ A rom hack changelog for an old game
 21. New Final boss unlocks ng+.
 22. Superboss unlocks infinite missiles and TNT upgrade.
 23. Bosses and enemies tweaked to be stronger due to better upgrades.
-24. Enemy spawn pools are much larger, deal with more enemies on the screen. Game becomes more like a bullet hell.
+24. Enemy spawn pools are much faster, deal with more enemies on the screen. Game becomes more like a bullet hell.
 
 ## Item Changes
 1. Potion icon changed to Burger (to match Hot Dogs as healing).
