@@ -64,5 +64,5 @@ A rom hack changelog for an old game
 3. Potion item location now where Vice Grips used to be giving healing earlier in the game.
 4. Original Potion location changed to story based side quest to get a movement speed upgrade.
 5. Invisible Potions now in the dead end near the original Potion location giving access to invicibility earlier.
-6. Whip item house now changed to a new item, 1/2 damage.
+6. Whip item house now changed to a new item, undetermined.
 7. Super gun powerup can be dropped. It is a shiny blue gun power up that increases the gun by 5 levels.
