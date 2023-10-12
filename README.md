@@ -29,7 +29,7 @@ A rom hack changelog for an old game
 4. Dead end at bottom is now open for a way to bypass the first area and major boss. For speedrunners but not recommended as you
 5. Secrets exist in bombable areas which require TNT.
 6. Some areas require certain status effects to go through (such as mini).
-7. Hospitals have been replaced with haunted houses.
+7. Hospitals have been replaced with haunted houses, in keeping with Adam's Family theme.
 
 ## Enemy Changes
 1. Certain enemies drop Vice Grips.
@@ -38,7 +38,7 @@ A rom hack changelog for an old game
 4. New enemy type Pork Butcher, moves slowly has a lot of health. Attacks with ranged attack.
 5. New enemy type White Space Frog, shoots lightning out of mouth in 180 degree arc. Causes paralysis status effect.
 6. New enemy type Blue Space Frog, shoots ice projectile out of mouth. Causes freezing status effect.
-7. New boss prior to 1st boss. A two on one boss fight. Drops lifesteal upgrade.
+7. New boss prior to 1st boss. A two on one boss fight. Drops lifesteal upgrade. One is a berserker who charges, the second is a gunner who is stationary and attacks at range.
 8. New miniboss next to bridge, Ranger. Shoots a bow and has a decent amount of health. Doesn't respawn. Near campfire next to river.
 9. 1st boss unlocks whip weapon now.
 10. 2nd boss unlocks whip speed upgrade.
@@ -47,6 +47,8 @@ A rom hack changelog for an old game
 13. 5th boss unlocks inreased gun speed upgrade.
 14. 6th boss unlocks ability to go to alien world.
 15. Final boss unlocks ng+ upgrade.
+16. Bosses and enemies tweaked to be stronger due to better upgrades.
+17. Enemy spawn pools are much larger, deal with more enemies on the screen. Game becomes more like a bullet hell.
 
 ## Item Changes
 1. Potion icon changed to Burger (to match Hot Dogs as healing).
